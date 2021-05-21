@@ -15,4 +15,4 @@ print(Fibbonaci(n))
 
 print("Fibonacci sequence:")
 for i in range(n):
-    print(Fibbonaci(i))
+    print(Fibbonaci(i),end=" ")
